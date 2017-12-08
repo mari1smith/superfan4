@@ -1,0 +1,249 @@
+ /* Paste in code from your old files to save time and avoid typos! */
+
+body {
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	flex-wrap: wrap;
+	background-color: red;
+margin:0;
+}
+
+.col1 {
+	height: 100vh;
+	width:50vw;
+	display: flex;
+	flex-wrap:wrap;
+	background-color: green;
+}
+
+.col2 {
+	height: 100vh;
+	width:50vw;
+	display: flex;
+	flex-wrap:wrap;
+	background-color: orange;
+}
+
+.blank-1 {
+	height:calc(100vh/3);
+	width:50vw;
+	background-color: white;
+    display: block;
+	margin: auto;
+	border:5px;
+}
+.blank-2{
+	height: calc(100vh/3);
+	width: 50vw;
+	backg0round-color: pink;
+    display: flex;
+	margin: auto;
+}
+
+.blank-3 {
+	height:calc(100vh/3);
+	width:50vw;
+	background-color: black;
+    display: block;
+	margin: auto;
+}
+
+.empty-1 {
+	height:calc(100vh/3);
+	width:50vw;
+	background-color: yellow;
+    display: block;
+	margin: auto;
+	border:5px;
+}
+
+.empty-2{
+	height: calc(100vh/3);
+	width: 50vw;
+	background-color: pink;
+    display: block;
+	margin: auto;
+}
+
+.empty-3 {
+	height:calc(100vh/3);
+	width:50vw;
+	background-color: black;
+    display: block;
+	margin: auto;
+}
+
+.triangle-1 {
+	height:50%;
+	width:100%;
+	background-color: orange;
+    display: block;
+	margin: 0px;
+}
+
+.triangle-2 {
+	height:50%;
+	width:100%;
+	background-color: purple;
+    display: block;
+	margin: auto;
+}
+
+
+.square-1 {
+	height:100%;
+	width:50%;
+	background-color: green;
+    display: block;
+	margin: auto;
+}
+
+.square-2 {
+	height:100%;
+	width:50%;
+	background-color: blue;
+    display: block;
+	margin: auto;
+}
+
+.diamond-1 {
+		height:50%;
+		width:100%;
+		background-color: black;
+		display: block;
+		margin: 0px;
+}
+
+.diamond-2 {
+		height:50%;
+		width:100%;
+		background-color: orange;
+		display: block;
+		margin: 0px;
+		
+}
+
+@media screen and (max-width: 800px) {
+
+	body {
+		height: 100vh;
+		width: 100vw;
+		display: block;
+		margin:0;
+	}
+	
+	.col1 {
+	height: 100vh;
+	width:100vw;
+	display: flex;
+	flex-wrap:wrap;
+	background-color: green;
+}
+
+.col2 {
+	height: 100vh;
+	width:100vw;
+	display: flex;
+	flex-wrap:wrap;
+	background-color: orange;
+}
+
+.blank-1 {
+	height:calc(100vh/3);
+	width:100vw;
+	background-color: white;
+    display: block;
+	margin: auto;
+	border:5px;
+}
+.blank-2{
+	height: calc(100vh/3);
+	width: 100vw;
+	background-color: pink;
+    display: flex;
+	margin: auto;
+}
+
+.blank-3 {
+	height:calc(100vh/3);
+	width:100vw;
+	background-color: black;
+    display: block;
+	margin: auto;
+}
+
+.empty-1 {
+	height:calc(100vh/3);
+	width: 100vw;
+	background-color: yellow;
+    display: block;
+	margin: auto;
+	border:5px;
+}
+
+.empty-2{
+	height: calc(100vh/3);
+	width: 100vw;
+	background-color: pink;
+    display: block;
+	margin: auto;
+}
+
+.empty-3 {
+	height:calc(100vh/3);
+	width:100vw;
+	background-color: black;
+    display: block;
+	margin: auto;
+}
+
+.triangle-1 {
+	height:50%;
+	width:100%;
+	background-color: orange;
+    display: block;
+	margin: 0px;
+}
+
+.triangle-2 {
+	height:50%;
+	width:100%;
+	background-color: purple;
+    display: block;
+	margin: auto;
+}
+
+
+.square-1 {
+	height:100%;
+	width:100%;
+	background-color: green;
+    display: block;
+	margin: auto;
+}
+
+.square-2 {
+	height:110%;
+	width:100vw;
+	background-color: blue;
+    display: block;
+	margin: auto;
+}
+
+.diamond-1 {
+		height:50%;
+		width:100%;
+		background-color: black;
+		display: block;
+		margin: 0px;
+}
+
+.diamond-2 {
+		height:50%;
+		width:100%;
+		background-color: orange;
+		display: block;
+		margin: 0px;
+}
+}
