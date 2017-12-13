@@ -10,5 +10,6 @@ function playSound2(elem){
 }
 
 function change2009(elem) {
+	docuemnt.getElementById("pink").classList.remove("");
 	document.getElementById("pink").classList.toggle("2009");
 }
