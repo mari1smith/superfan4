@@ -12,6 +12,7 @@ margin:0;
 	background-image: url("2009.png");
 	background-repeat: no-repeat;
 	background-position: center;
+	background-size: 50px 50px;
 }
 .vid {
 	max-width: 100%;
@@ -264,6 +265,7 @@ img {
 	background-image: url("2009.png");
 	background-repeat: no-repeat;
 	background-position: center;
+	background-size: 50px 50px;
 }
 .diamond-2 {
 		height:50%;
