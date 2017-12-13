@@ -10,21 +10,17 @@ function playSound2(elem){
 }
 
 function change2009(elem) {
-	docuemnt.getElementById("pink").classList.remove("blank-2");
 	document.getElementById("pink").classList.toggle("2009");
 }
 
 function change2010(elem) {
-	docuemnt.getElementById("pink").classList.remove("blank-2");
-	document.getElementById("pink").classList.toggle("2009");
+	document.getElementById("pink").classList.toggle("2010");
 }
 
 function change2011(elem) {
-	docuemnt.getElementById("pink").classList.remove("blank-2");
-	document.getElementById("pink").classList.toggle("2009");
+	document.getElementById("pink").classList.toggle("2011");
 }
 
 function change2012(elem) {
-	docuemnt.getElementById("pink").classList.remove("blank-2");
-	document.getElementById("pink").classList.toggle("2009");
+	document.getElementById("pink").classList.toggle("2012");
 }
