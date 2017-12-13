@@ -10,5 +10,5 @@ function playSound2(e){
 }
 
 function change2009(e) {
-	document.getElementById("pink").classList.toggle("2009")
+	document.getElementById("pink").classList.toggle("2009");
 }
