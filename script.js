@@ -8,3 +8,7 @@ function playSound2(e){
 	document.getElementById("late2").play();
 	document.getElementById("late1").pause();
 }
+
+function 2009(e) {
+	document.getElementById("pink").classList.toggle("2009")
+}
