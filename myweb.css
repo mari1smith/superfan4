@@ -8,22 +8,22 @@ body {
 	background-color: red;
 margin:0;
 }
-.2009 {
+.p {
 	background-image: purple;
 }
-.2010 {
+.n{
 	background-image: url("ten.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 50px 50px;
 }
-.2011 {
+.g {
 	background-image: url("preg.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 50px 50px;
 }
-.2012 {
+.k {
 	background-image: url("twelve.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
@@ -270,22 +270,22 @@ img {
 		display: block;
 		margin: 0px;
 }
-.2009 {
+.p {
 	background-color: purple;
 }
-.2010 {
+.n {
 	background-image: url("ten.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 50px 50px;
 }
-.2011 {
+.g {
 	background-image: url("preg.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 50px 50px;
 }
-.2012 {
+.k {
 	background-image: url("twelve.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
