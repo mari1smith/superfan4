@@ -9,7 +9,7 @@ body {
 margin:0;
 }
 .p {
-	background-image: purple;
+	background-image:url("2009.jpg");
 }
 .n{
 	background-image: url("ten.jpg");
@@ -271,7 +271,7 @@ img {
 		margin: 0px;
 }
 .p {
-	background-color: purple;
+	background-image:url("2009.jpg")
 }
 .n {
 	background-image: url("ten.jpg");
