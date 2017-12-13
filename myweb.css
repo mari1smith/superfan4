@@ -83,7 +83,7 @@ margin:0;
 .triangle-1 {
 	height:50%;
 	width:100%;
-	background-color: orange;
+	background-color: black;
     display: block;
 	margin: 0px;
 }
@@ -91,7 +91,7 @@ margin:0;
 .triangle-2 {
 	height:50%;
 	width:100%;
-	background-color: purple;
+	background-color: black;
     display: block;
 	margin: auto;
 }
@@ -120,13 +120,13 @@ margin:0;
 		background-color: black;
 		display: block;
 		margin: 0px;
-		background-image: image4bey.png 
+		background-image: 
 }
 
 .diamond-2 {
 		height:50%;
 		width:100%;
-		background-color: orange;
+		background-color: black;
 		display: block;
 		margin: 0px;
 		
