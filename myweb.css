@@ -70,10 +70,10 @@ margin:0;
 .blank-3 {
 	height:calc(100vh/3);
 	width:50vw;
-	background-color: ;
-    display: block;
+	background-img:url("beylove5.mp4");
+    	display: block;
 	margin: auto;
-	content: url(bey.mp4);
+	
 }
 
 .empty-1 {
