@@ -237,7 +237,7 @@ img {
 .square-1 {
 	height:100%;
 	width:100%;
-	background-color: green;
+	background-color: black;
     display: block;
 	margin: auto;
 }
@@ -245,7 +245,7 @@ img {
 .square-2 {
 	height:110%;
 	width:100vw;
-	background-color: blue;
+	background-color: black;
     display: block;
 	margin: auto;
 }
