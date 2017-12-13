@@ -9,10 +9,7 @@ body {
 margin:0;
 }
 .2009 {
-	background-image: url("2009.jpg");
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: 50px 50px;
+	backgorund-image: purple;
 }
 .2010 {
 	background-image: url("ten.jpg");
