@@ -89,7 +89,6 @@ margin:0;
 .empty-2{
 	height: calc(100vh/3);
 	width: 50vw;
-	background-color: pink;
     display: block;
 	margin: auto;
 }
@@ -224,7 +223,6 @@ img {
 .empty-2{
 	height: calc(100vh/3);
 	width: 100vw;
-	background-color: pink;
     display: block;
 	margin: auto;
 }
