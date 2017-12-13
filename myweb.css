@@ -9,7 +9,8 @@ body {
 margin:0;
 }
 .2009 {
-	content: url("2009.png");
+	background-image: url("2009.png");
+	background-repeat: no-repeat;
 }
 .vid {
 	max-width: 100%;
@@ -261,10 +262,10 @@ img {
 		display: block;
 		margin: 0px;
 }
-	.2009{
-	content: url("2009.png");
+.2009 {
+	background-image: url("2009.png");
+	background-repeat: no-repeat;
 }
-
 .diamond-2 {
 		height:50%;
 		width:100%;
