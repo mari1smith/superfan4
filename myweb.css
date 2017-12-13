@@ -274,7 +274,10 @@ img {
 		margin: 0px;
 }
 .p {
-	background-image:url("2009.jpg")
+	background-image:url("2009.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 50px 50px;
 }
 .n {
 	background-image: url("ten.jpg");
