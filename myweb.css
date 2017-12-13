@@ -100,7 +100,7 @@ margin:0;
 .square-1 {
 	height:100%;
 	width:50%;
-	background-color: green;
+	background-color: black;
     display: block;
 	margin: auto;
 	
@@ -109,7 +109,7 @@ margin:0;
 .square-2 {
 	height:100%;
 	width:50%;
-	background-color: blue;
+	background-color: black;
     display: block;
 	margin: auto;
 }
