@@ -97,6 +97,7 @@ margin:0;
 	background-color: green;
     display: block;
 	margin: auto;
+	
 }
 
 .square-2 {
@@ -113,6 +114,7 @@ margin:0;
 		background-color: black;
 		display: block;
 		margin: 0px;
+		background-image: image4bey.png 
 }
 
 .diamond-2 {
@@ -122,6 +124,17 @@ margin:0;
 		display: block;
 		margin: 0px;
 		
+}
+
+/* change this image to the 2011 outfit */
+.b2011 {
+	content: url(img/polp2.png);
+}
+
+img {
+	margin:auto;
+	height: 100%;
+	width: 100%
 }
 
 @media screen and (max-width: 800px) {
