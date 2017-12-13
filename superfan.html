@@ -2,6 +2,7 @@
 
 <html>
 
+	
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,30 +13,38 @@
 
 	<body>
 		<div class="col1">
-			<div class="blank-1"></div>
-				
+			<div class="blank-1">
+				<img src="img/twop.jpg"></img>
+			</div>
 			<div class="blank-3"></div>
 		
 			<div class="blank-2">
-				<div class="square-1"></div>
-				<div class="square-2"></div>
+				<div class="square-1">
+					<img class="b2011" onclick="playSound1(this)"></img>
+				</div>
+				<div class="square-2">
+					<img src="img/polp2.png" onclick="playSound2"></img>
+					</div>
+					<audio src="" type="" id="late"></audio>
+					<audio src="" type="" id="late1"></audio>
 			</div>
 		</div>
 		
 		<div class="col2">
 			<div class="empty-1">
-					<div class="diamond-1">
+					<div class="diamond-1" id="one">2009
 					</div>
-					<div class="diamond-2">
+					<div class="diamond-2" id="two">2010
 					</div>
 				</div>
-			<div class="empty-2"></div>
+			<div class="empty-2 b2011"></div>
 			<div class="empty-3">
-				<div class="triangle-1">
+				<div class="triangle-1" id="three">2011
 				</div>
-				<div class="triangle-2">
+				<div class="triangle-2" id="four">2012
 				</div>
 			</div>
+			<script type="text/javascript" src="script.js"></script>
 		</div>
 	</body>
    
