@@ -10,26 +10,26 @@ function playSound2(elem){
 }
 
 function changep(elem) {
-document.getElementById("pink").classList.toggle("2009");
+document.getElementById("pink").classList.toggle("p");
 }
 
 function changen(elem) {
-	document.getElementById("pink").classList.remove("2009");
-	document.getElementById("pink").classList.remove("2011");
-	document.getElementById("pink").classList.remove("2012");
-document.getElementById("pink").classList.toggle("2010");
+	document.getElementById("pink").classList.remove("p");
+	document.getElementById("pink").classList.remove("n");
+	document.getElementById("pink").classList.remove("k");
+document.getElementById("pink").classList.toggle("g");
 }
 
 function changeg(elem) {
-	document.getElementById("pink").classList.remove("2010");
-	document.getElementById("pink").classList.remove("2009");
-	document.getElementById("pink").classList.remove("2012");
-document.getElementById("pink").classList.toggle("2011");
+	document.getElementById("pink").classList.remove("g");
+	document.getElementById("pink").classList.remove("p");
+	document.getElementById("pink").classList.remove("k");
+document.getElementById("pink").classList.toggle("n");
 }
 
 function changek(elem) {
-	document.getElementById("pink").classList.remove("2010");
-	document.getElementById("pink").classList.remove("2011");
-	document.getElementById("pink").classList.remove("2009");
-document.getElementById("pink").classList.toggle("2012");
+	document.getElementById("pink").classList.remove("n");
+	document.getElementById("pink").classList.remove("g");
+	document.getElementById("pink").classList.remove("p");
+document.getElementById("pink").classList.toggle("k");
 }
