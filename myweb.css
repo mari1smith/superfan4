@@ -64,8 +64,7 @@ margin:0;
 .blank-2{
 	height: calc(100vh/3);
 	width: 50vw;
-	backg0round-color: pink;
-    display: flex;
+	display: flex;
 	margin: auto;
 }
 
@@ -201,8 +200,7 @@ img {
 .blank-2{
 	height: calc(100vh/3);
 	width: 100vw;
-	background-color: pink;
-    display: flex;
+	display: flex;
 	margin: auto;
 }
 
