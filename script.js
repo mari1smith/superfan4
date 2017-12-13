@@ -9,6 +9,6 @@ function playSound2(e){
 	document.getElementById("late1").pause();
 }
 
-function 2009(e) {
+function 2009(elem) {
 	document.getElementById("pink").classList.toggle("2009")
 }
