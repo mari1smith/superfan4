@@ -32,6 +32,11 @@ margin:0;
 	max-width: 100%;
 	max-height: 100%;
 }
+.style {
+	margin: auto;
+	height:calc(100vh/3);
+	width:50vw;
+}
 
 .col1 {
 	height: 100vh;
@@ -42,26 +47,20 @@ margin:0;
 }
 
 .blank-1 {
-	height:calc(100vh/3);
-	width:50vw;
+	
 	background-color: white;
     display: block;
-	margin: auto;
 	border:5px;
 }
 .blank-2{
-	height: calc(100vh/3);
-	width: 50vw;
 	display: flex;
-	margin: auto;
+	
 }
 
 .blank-3 {
-	height:calc(100vh/3);
-	width:50vw;
 	background-img:url("beylove5.mp4");
     	display: block;
-	margin: auto;
+	
 	
 }
 
@@ -75,18 +74,16 @@ margin:0;
 }
 
 .empty-2{
-	height: calc(100vh/3);
-	width: 50vw;
+	
     display: block;
-	margin: auto;
+	
 }
 
 .empty-3 {
-	height:calc(100vh/3);
-	width:50vw;
+	
 	background-color: black;
     display: block;
-	margin: auto;
+	
 }
 
 .triangle-1 {
@@ -170,50 +167,38 @@ img {
 
 
 .blank-1 {
-	height:calc(100vh/3);
-	width:100vw;
+
 	background-color: white;
     display: block;
-	margin: auto;
 	border:5px;
 }
 .blank-2{
-	height: calc(100vh/3);
-	width: 100vw;
+	
 	display: flex;
 	margin: auto;
 }
 
 .blank-3 {
-	height:calc(100vh/3);
-	width:100vw;
-	background-color: ;
     display: block;
-	margin: auto;
+	
 }
 
 .empty-1 {
-	height:calc(100vh/3);
-	width: 100vw;
+	
 	background-color: yellow;
     display: block;
-	margin: auto;
 	border:5px;
 }
 
 .empty-2{
-	height: calc(100vh/3);
-	width: 100vw;
     display: block;
-	margin: auto;
+
 }
 
 .empty-3 {
-	height:calc(100vh/3);
-	width:100vw;
 	background-color: black;
     display: block;
-	margin: auto;
+
 }
 
 .triangle-1 {
