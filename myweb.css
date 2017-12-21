@@ -65,11 +65,9 @@ margin:0;
 }
 
 .empty-1 {
-	height:calc(100vh/3);
-	width:50vw;
 	background-color: yellow;
     display: block;
-	margin: auto;
+
 	border:5px;
 }
 
@@ -153,7 +151,6 @@ img {
 	body {
 		height: 100vh;
 		width: 100vw;
-		display: block;
 		margin:0;
 	}
 	
