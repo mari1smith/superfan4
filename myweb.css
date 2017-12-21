@@ -8,35 +8,32 @@ margin:0;
 }
 .p {
 	background-image:url("2009.jpg");
-}
-
-.n{
-	background-image: url("ten.jpg");
-}
-.g {
-	background-image: url("preg.jpg");
-}
-.k {
-	background-image: url("twelve.jpg");
-}
-
-.pngk {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 150px 150px;
 }
-
+.n{
+	background-image: url("ten.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 150px 150px;
+}
+.g {
+	background-image: url("preg.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 150px 150px;
+}
+.k {
+	background-image: url("twelve.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 150px 150px;
+}
 .vid {
 	max-width: 100%;
 	max-height: 100%;
 }
-.style {
-	margin: auto;
-	height:calc(100vh/3);
-	width:50vw;
-	
-}
-
 
 .col1 {
 	height: 100vh;
@@ -46,42 +43,59 @@ margin:0;
 	background-color: green;
 }
 
+.col2 {
+	height: 100vh;
+	width:50vw;
+	display: flex;
+	flex-wrap:wrap;
+}
+
 .blank-1 {
-	
+	height:calc(100vh/3);
+	width:50vw;
 	background-color: white;
     display: block;
+	margin: auto;
 	border:5px;
 }
 .blank-2{
+	height: calc(100vh/3);
+	width: 50vw;
 	display: flex;
-	
+	margin: auto;
 }
 
 .blank-3 {
+	height:calc(100vh/3);
+	width:50vw;
 	background-img:url("beylove5.mp4");
     	display: block;
-	
+	margin: auto;
 	
 }
 
 .empty-1 {
+	height:calc(100vh/3);
+	width:50vw;
 	background-color: yellow;
     display: block;
-
+	margin: auto;
 	border:5px;
 }
 
 .empty-2{
-	
+	height: calc(100vh/3);
+	width: 50vw;
     display: block;
-	
+	margin: auto;
 }
 
 .empty-3 {
-	
+	height:calc(100vh/3);
+	width:50vw;
 	background-color: black;
     display: block;
-	
+	margin: auto;
 }
 
 .triangle-1 {
@@ -163,40 +177,55 @@ img {
 	background-color: green;
 }
 
+.col2 {
+	width:100vw;
+}
 
 .blank-1 {
-
+	height:calc(100vh/3);
+	width:100vw;
 	background-color: white;
     display: block;
+	margin: auto;
 	border:5px;
 }
 .blank-2{
-	
+	height: calc(100vh/3);
+	width: 100vw;
 	display: flex;
 	margin: auto;
 }
 
 .blank-3 {
+	height:calc(100vh/3);
+	width:100vw;
+	background-color: ;
     display: block;
-	
+	margin: auto;
 }
 
 .empty-1 {
-	
+	height:calc(100vh/3);
+	width: 100vw;
 	background-color: yellow;
     display: block;
+	margin: auto;
 	border:5px;
 }
 
 .empty-2{
+	height: calc(100vh/3);
+	width: 100vw;
     display: block;
-
+	margin: auto;
 }
 
 .empty-3 {
+	height:calc(100vh/3);
+	width:100vw;
 	background-color: black;
     display: block;
-
+	margin: auto;
 }
 
 .triangle-1 {
@@ -241,37 +270,33 @@ img {
 }
 .p {
 	background-image:url("2009.jpg");
-	
-}
-.n {
-	background-image: url("ten.jpg");
-	
-}
-.g {
-	background-image: url("preg.jpg");
-	
-}
-.k {
-	background-image: url("twelve.jpg");
-}
-	
-.pngk {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 150px 150px;
 }
-	
-	
+.n {
+	background-image: url("ten.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 150px 150px;
+}
+.g {
+	background-image: url("preg.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 150px 150px;
+}
+.k {
+	background-image: url("twelve.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 150px 150px;
+}
 .diamond-2 {
 		height:50%;
 		width:100%;
 		background-color: black;
 		display: block;
 		margin: 0px;
-}
-	.style {
-	margin: auto;
-	height:calc(100vh/3);
-	width:50vw;
 }
 }
