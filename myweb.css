@@ -278,4 +278,8 @@ img {
 	height:calc(100vh/3);
 	width:50vw;
 }
+	.mobile {
+	width: 100vw;
+	height: 50vh;
+}
 }
