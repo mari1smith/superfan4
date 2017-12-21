@@ -258,28 +258,27 @@ img {
 }
 .p {
 	background-image:url("2009.jpg");
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: 150px 150px;
+	
 }
 .n {
 	background-image: url("ten.jpg");
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: 150px 150px;
+	
 }
 .g {
 	background-image: url("preg.jpg");
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: 150px 150px;
+	
 }
 .k {
 	background-image: url("twelve.jpg");
+}
+	
+.pngk {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 150px 150px;
 }
+	
+	
 .diamond-2 {
 		height:50%;
 		width:100%;
