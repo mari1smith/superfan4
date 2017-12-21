@@ -92,13 +92,7 @@ margin:0;
 	margin: 0px;
 }
 
-.triangle-2 {
-	height:50%;
-	width:100%;
-	background-color: black;
-    display: block;
-	margin: auto;
-}
+
 
 
 .square-1 {
@@ -119,14 +113,7 @@ margin:0;
 		margin: 0px;
 		background-image: 
 }
-.diamond-2 {
-		height:50%;
-		width:100%;
-		background-color: black;
-		display: block;
-		margin: 0px;
-		
-}
+
 
 /* change this image to the 2011 outfit */
 .b2011 {
@@ -202,13 +189,7 @@ img {
 	margin: 0px;
 }
 
-.triangle-2 {
-	height:50%;
-	width:100%;
-	background-color: black;
-    display: block;
-	margin: auto;
-}
+
 
 
 .square-1 {
@@ -219,13 +200,7 @@ img {
 	margin: auto;
 }
 
-.square-2 {
-	height:110%;
-	width:100vw;
-	background-color: black;
-    display: block;
-	margin: auto;
-}
+
 
 .diamond-1 {
 		height:50%;
@@ -258,11 +233,5 @@ img {
 	background-position: center;
 	background-size: 150px 150px;
 }
-.diamond-2 {
-		height:50%;
-		width:100%;
-		background-color: black;
-		display: block;
-		margin: 0px;
-}
+
 }
