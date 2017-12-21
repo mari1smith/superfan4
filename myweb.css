@@ -271,4 +271,9 @@ img {
 		display: block;
 		margin: 0px;
 }
+	.style {
+	margin: auto;
+	height:calc(100vh/3);
+	width:50vw;
+}
 }
