@@ -140,7 +140,12 @@ margin:0;
 		margin: 0px;
 		
 }
-
+	.style {
+	margin: auto;
+	height:calc(100vh/3);
+	width:100vw;
+			
+}
 /* change this image to the 2011 outfit */
 .b2011 {
 	content: url(img/polp2.png);
