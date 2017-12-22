@@ -22,9 +22,11 @@ margin:0;
 }
 
 .pngk {
-background-repeat: no-repeat;
+	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 150px 150px;
+	height: 100%;
+	width: 60%
+	
 }
 img {
 	margin:auto;
@@ -221,9 +223,10 @@ img {
 
 
 
-	.pngk{
-		background-repeat: no-repeat;
+.pngk {
+	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 150px 150px;
+	height: 100%;
+	width: 60%
 }
 	}
