@@ -1,4 +1,6 @@
-
+//The first function, playsound1 tells my code to get the id named "late" then play it sounds, and while it is playing for the other id named "late2" to stay pause and vice versa for the playsound2 function.
+//The second function, change p,n,g,k tells my when the id is clicked that it will pop up in the empty-2 div, while the id is clicked the others will be removed.
+//The toggle feature ensures that the images can be clicked back and forth.
 function playSound1(elem){
 	document.getElementById("late").play();
 	document.getElementById("late2").pause();
