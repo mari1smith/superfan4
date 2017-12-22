@@ -24,7 +24,7 @@ margin:0;
 .pngk {
 background-repeat: no-repeat;
 	background-position: center;
-	background-size: 150px 150px;
+	background-size: 50px 50px;
 }
 .vid {
 	max-width: 100%;
@@ -116,11 +116,6 @@ background-repeat: no-repeat;
 	content: url(img/polp2.png);
 }
 
-img {
-	margin:auto;
-	height: 100%;
-	width: 100%
-}
 
 @media screen and (max-width: 800px) {
 
@@ -221,6 +216,6 @@ img {
 	.pngk{
 		background-repeat: no-repeat;
 	background-position: center;
-	background-size: 150px 150px;
+	background-size: 50px 50px;
 }
 	}
