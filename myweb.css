@@ -24,7 +24,7 @@ margin:0;
 .pngk {
 background-repeat: no-repeat;
 	background-position: center;
-	background-size: 50px 50px;
+	background-size: 150px 150px;
 }
 .vid {
 	max-width: 100%;
@@ -212,10 +212,16 @@ background-repeat: no-repeat;
 	background-image: url("twelve.jpg");
 
 }
+	img {
+	margin:auto;
+	height: 100%;
+	width: 100%
+}
+
 
 	.pngk{
 		background-repeat: no-repeat;
 	background-position: center;
-	background-size: 50px 50px;
+	background-size: 150px 150px;
 }
 	}
